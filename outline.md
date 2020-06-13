@@ -31,3 +31,18 @@ contact
 home
 
 login
+
+
+what we doing in the course
+
+frontend template
+ 
+virtual env
+
+upload project on github
+
+
+- url : path
+- view : logic
+- models : db
+- templates : frontend
